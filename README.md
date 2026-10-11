@@ -6,21 +6,19 @@ TaskFlow is a task management web application built with Laravel to practice and
 
 ## Features
 
-- Create and manage tasks.
-- Validate task information using Laravel.
-- Organize application logic using Laravel conventions.
-- Store application data in a database.
-- Build responsive pages using Blade templates.
-- Provide user-friendly feedback when performing actions.
-
-*Note: This list should be updated to reflect the features actually implemented in the project.*
+- **Task Creation:** Create new tasks through a web-based form.
+- **Input Validation:** Validate submitted task information using Laravel's request validation.
+- **Blade Templates:** Render the task creation interface using Laravel Blade.
+- **Form Handling:** Process form submissions through Laravel routes and controllers.
+- **Error Feedback:** Display validation feedback when submitted task information is invalid.
+- **Database Integration:** Built with Laravel and configured to use MySQL for data persistence.
 
 ## Tech Stack
 
 - **Backend:** PHP, Laravel
 - **Frontend:** HTML, CSS, Blade Templates
 - **Database:** MySQL
-- **Development Environment:** WAMP, Composer, Git, Visual Studio Code
+- **Development Environment:** WAMP, Composer, Git, Visual Studio Code or Antigravity IDE
 
 ## Getting Started
 
