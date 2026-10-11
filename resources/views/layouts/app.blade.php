@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <nav class="navbar navbar-dark bg-primary">
+    <nav class="navbar navbar-dark bg-primary sticky-top">
         <div class="container">
             <a class="navbar-brand" href="{{route('home')}}">
                 TaskFlow
